@@ -1,0 +1,6 @@
+streamlit
+pytesseract
+Pillow
+whisper
+PyMuPDF
+torch
